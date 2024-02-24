@@ -5,7 +5,7 @@
 
 诸位，安好～
 
-我是sliverkiss，一名爱好编程的极简主义者，存在于地球表层的亚热带地域群居性生物。喜欢呆在家里无所事事，悠闲自在的消磨时光。目前正在为用什么恰饭而苦恼。
+我是DeYo572，一名爱好编程的极简主义者，存在于地球表层的亚热带地域群居性生物。喜欢呆在家里无所事事，悠闲自在的消磨时光。目前正在为用什么恰饭而苦恼。
 
 ##### 爱好
 - 阅读。每天阅读一小时，确保一周一本书的阅读量。
@@ -28,10 +28,12 @@
 ##### 寻找我
 
 想联系我？建议使用电报联系我，如有商业合作提前备注添加好友。
-- RSS:[RSS订阅](https://sliverkiss.github.io/feed.xml)
-- GitHub:[Sliverkiss](https://github.com/sliverkiss)
-- Telegram:[sliverkiss](https://t.me/sliverkiss)
-- Telegram Channel:[🌸Sakura樱花交流会](https://t.me/sliverkiss)
+- RSS:[RSS订阅](https://Deyo572.github.io/feed.xml)
+- GitHub:[Deyo572](https://github.com/Deyo572)
+- Telegram:[Deyo572](https://t.me/Deyo572
+)
+- Telegram Channel:[☀️DeYo572交流会](https://t.me/DeYou572
+)
 
 ##### 平台
 放弃社交，目前只在tg、github以及各大图书馆出没。
