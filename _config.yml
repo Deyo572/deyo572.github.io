@@ -4,12 +4,12 @@
 #
 # Modified by tLLWtG
 
-title: Deyo572 Blog
-SEOTitle: Deyo572 Blog
+title: DeYo572 Blog
+SEOTitle: DeYo572 Blog
 # bg changed to random
 header-img: img/header_ic.jpg
 email: peng67293@gmail.com
-description: "这里是 Deyo572 的个人博客，与你一起发现更大的世界 | 相遇即是缘分～"
+description: "这里是 DeYo572 的个人博客，与你一起发现更大的世界 | 相遇即是缘分～"
 keyword: "Deyo572, Deyo572 的博客, Deyo572 Blog, 博客, 个人网站, 互联网, Web"
 url: "https://deyo572.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
