@@ -20,7 +20,7 @@
 - iPad Pro 2021
 - 小米 AC2100
 - MINISFORUM GK41（~~最实用的All in one小主机~~）
-- iPhone XR 
+- iPhone 13Pro 
 - 小米多亲 Qin2
 - Kindle paper 5
 - 山灵 M0
@@ -28,9 +28,9 @@
 ##### 寻找我
 
 想联系我？建议使用电报联系我，如有商业合作提前备注添加好友。
-- RSS:[RSS订阅](https://Deyo572.github.io/feed.xml)
-- GitHub:[Deyo572](https://github.com/Deyo572)
-- Telegram:[Deyo572](https://t.me/Deyo572
+- RSS:[RSS订阅](https://DeYo572.github.io/feed.xml)
+- GitHub:[DeYo572](https://github.com/DeYo572)
+- Telegram:[DeYo572](https://t.me/DeYo572
 )
 - Telegram Channel:[☀️DeYo572交流会](https://t.me/DeYou572
 )
